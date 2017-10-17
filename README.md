@@ -1,6 +1,8 @@
 # SHOPIFY APPS
 #### Best Shopify apps ever I've used
 
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
+
 ### Explanation
 
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;

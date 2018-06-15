@@ -3,7 +3,7 @@
 
 ### Explanation
 ![FREE][Free]  means **free** to use <br>
-![Recommended][Reco]  means **recommended** app;
+![Recommended][Reco]  means **recommended** app; <br>
 ![Paid][Paid] means **paid** app; 
 
 ---
@@ -20,7 +20,10 @@
 ---
 
 ## SURVEY
-* Collect User Preference / Survey -> [Survey](https://apps.shopify.com/powr-survey) ![FREE][Free] ![Reco][Reco]
+* Collect User Preference / Survey -> [Survey](https://apps.shopify.com/powr-survey) ![Paid][Paid]
+
+## FORM BUILDER
+* Collect User Preference / Survey (2) -> [Form Builder](https://apps.shopify.com/powr-form-builder?ref=powr-io) ![FREE][Free] ![Reco][Reco]
 
 ---
 
